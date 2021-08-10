@@ -5,5 +5,7 @@ module.exports = {
     devServer: {
         port: 4444,
         open: true, //是否浏览器自动打开
-    }
+    },
+    // 暂时关闭eslint代码检查
+    lintOnSave: false,
 }
