@@ -7,3 +7,7 @@
 // vue create vue-demo
 // cd vue-demo
 // yarn serve
+
+
+// 自定义serve启动端口
+// vue.config.js
